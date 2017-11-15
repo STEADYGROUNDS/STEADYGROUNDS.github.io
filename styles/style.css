@@ -1,0 +1,33 @@
+#canvasWrapper {
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+}
+
+#canvas {
+	padding: 30px 50px 50px 50px;
+}
+
+#headerWrapper {
+    float: none;
+    z-index: 1000;
+    padding-bottom: 20px;
+}
+
+img.home{
+    padding-left: 20%;
+
+}
+
+.nav {
+	font-family: 'Inconsolata', monospace;
+	font-size: 12px;
+    line-height: 1.6em;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#logo {
+	margin-bottom: 20px;
+}
